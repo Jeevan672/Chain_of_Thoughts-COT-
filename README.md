@@ -4,7 +4,8 @@ CoT prompting aims to encourage reasoning by getting the model to provide interm
 leading to the definitive answer. This is done by prefixing the prompt with instructions to show 
 its thinking.
 
-There are three variants of CoT, zero-shot, few-shot and Automatic Chain-of-Thought (Auto-CoT). 
+There are three variants of CoT, zero-shot, few-shot and Automatic Chain-of-Thought (Auto-CoT).
+![image](https://github.com/Jeevan672/Chain_of_Thoughts-COT-/assets/88030873/b5631f04-6f49-4d65-87a1-c88b5aa1bc57)
 
 # zero-shot CoT
 
@@ -22,6 +23,9 @@ Example- https://github.com/Jeevan672/Chain_of_Thoughts-COT-/blob/main/zero-shot
 Few-shot chain-of-thought prompting is a few-shot prompt, where the reasoning is explained 
 as part of the example solutions, with the idea to encourage an LLM to explain its reasoning 
 before deciding.
+
+Example Notes-
+
 
 # Automatic Chain-of-Thought (Auto-CoT)
 
