@@ -15,6 +15,8 @@ reasoning before stating the final answer. This encourages the LLM to logically 
 the problem first, rather than just guessing the answer and trying to justify it afterward. Asking
 an LLM to explain its thought process aligns well with its core capabilities
 
+Example- https://github.com/Jeevan672/Chain_of_Thoughts-COT-/blob/main/zero-shot-cot.ipynb
+
 # Few-shot chain-of-thought
 
 Few-shot chain-of-thought prompting is a few-shot prompt, where the reasoning is explained 
