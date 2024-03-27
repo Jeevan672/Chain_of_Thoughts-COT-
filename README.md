@@ -24,7 +24,7 @@ Few-shot chain-of-thought prompting is a few-shot prompt, where the reasoning is
 as part of the example solutions, with the idea to encourage an LLM to explain its reasoning 
 before deciding.
 
-Example Notes-
+Example Notes- https://github.com/Jeevan672/Chain_of_Thoughts-COT-/blob/main/few-shot-cot.ipynb
 
 
 # Automatic Chain-of-Thought (Auto-CoT)
